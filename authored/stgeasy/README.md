@@ -2,6 +2,6 @@ This is a somewhat themed challenge I wrote for RITCTF 2022, in April 2022. This
 
 This was written primarily for Linux, although there may be a solution for Windows. 
 
-The ```stgeasy.py``` file contains the writeup and commands to complete the challenge, but I don't think it should be necessary. Start the challenge by downloading the entire file and inspecting the image files. 
+The ```stgeasy.py``` file contains the writeup and commands to complete the challenge, but I don't think it should be necessary. Start the challenge by downloading the entire folder and inspecting the image files. 
 
 I hope you learn something new, and enjoy!
